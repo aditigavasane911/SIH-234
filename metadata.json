@@ -1,0 +1,6 @@
+{
+  "name": "FreshoFarm - Circular Food Surplus & ESG Redistribution",
+  "description": "AI-powered surplus food redistribution ecosystem connecting institutional kitchens, receiving NGOs, and eco-logistics partners with real-time freshness telemetry and ESG accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
